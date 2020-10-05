@@ -1,4 +1,4 @@
-### Hi there 👋
+The light you see at the end of a tunnel is the headlamp of a fast approaching train.
 
 <!--
 **zingus/zingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
